@@ -1,2 +1,2 @@
 # lysosomes
-lysosmes dataset
+lysosmes dataset from Prasad's lab.
